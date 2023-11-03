@@ -1,4 +1,4 @@
-# SportsLeagueMngmt
+# Sports League Management database design 
 SQL database designed to run a sports league, storing essential data used in the day-to-day functions
 
 ![image](https://github.com/sashank1079/SportsLeagueMngmt/assets/122720872/01cc69b9-524f-4833-88cc-8f3d188605a8)
